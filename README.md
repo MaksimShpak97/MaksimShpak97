@@ -35,7 +35,7 @@
     <a href="https://rest-assured.io/"><img src="images/Rest-Assured.svg" title="Rest Assured" width="50" height="50"  alt="Rest Assured"/></a>
   </p>
 
-### Связь со мной:
+### :email: Связь со мной:
 
 [//]: # ([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>]&#40;https://www.linkedin.com/in/maksim-shpak-8422b8245/&#41;)
 [//]: # ([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>]&#40;https://t.me/WarnerBrotherss&#41;)
