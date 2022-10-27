@@ -3,9 +3,9 @@
 
 ### Обо мне:
 
-- :hammer_and_wrench: 2021 года работаю инженером по ручному тестированию
-- :green_book: 2021 закончил курс по ручному тестированию
-- :green_book: 2022 Закончил курс для инженеров по автоматизации тестирования
+- :hammer_and_wrench: C 2021 года работаю инженером по ручному тестированию
+- :green_book: Закончил курс по ручному тестированию
+- :green_book: Закончил курс для инженеров по автоматизации тестирования
 
 ### Мои дипломные проекты
 
@@ -38,7 +38,8 @@
 ### Связь со мной:
 
 [//]: # ([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>]&#40;https://www.linkedin.com/in/maksim-shpak-8422b8245/&#41;)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/WarnerBrotherss)
+[//]: # ([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>]&#40;https://t.me/WarnerBrotherss&#41;)
+[<img src='https://cdn.icon-icons.com/icons2/2429/PNG/128/telegram_logo_icon_147228.png' alt='telegram' height='42'>](https://t.me/WarnerBrotherss)
 
 ### Статистика на GitHub:
 
