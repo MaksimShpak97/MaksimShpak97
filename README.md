@@ -12,7 +12,7 @@
 | Название дипломного проекта                                                                                | Ссылка на проект                                         |
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | <img src="images/Chrome.svg" width="25" height="25"  alt="Chrome"/>Проект по UI автоматизации              | https://github.com/MaksimShpak97/miro-tests_UI           |
-| <img src="images/Rest-Assured.svg" width="25" height="25"  alt="Rest assured"/>Проект по API автоматизации | https://github.com/MaksimShpak97/change_tests_API        |
+| <img src="images/Rest-Assured.svg" width="25" height="25"  alt="Rest assured"/>Проект по API автоматизации | https://github.com/MaksimShpak97/reqres_tests_API        |
 | <img src="images/Android.svg" width="20" height="20"  alt="Android"/>Проект по Mobile автоматизации        | https://github.com/MaksimShpak97/changename_tests_Mobile |
 
 ### Технологии и инструменты:
