@@ -1,21 +1,21 @@
-## Hi everyone! 👋
+<h2 align="center">:wave: Hi everyone! Welcome to my GitHub</h2>
 
 
-### Обо мне:
+### About me:
 
-- :hammer_and_wrench: C 2021 года работаю инженером по ручному тестированию
-- :green_book: Закончил курс по ручному тестированию
-- :green_book: Закончил курс для инженеров по автоматизации тестирования
+- 💼 I'm QA Engineer
+- :green_book: Completed a course on manual testing
+- :green_book: Completed a course on test automation(java)
 
 ### Мои дипломные проекты
 
-| Название дипломного проекта                                                                                | Ссылка на проект                                         |
+| Project name                                                                                | Link to the project                                         |
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| <img src="images/Chrome.svg" width="25" height="25"  alt="Chrome"/>Проект по UI автоматизации              | https://github.com/MaksimShpak97/miro-tests_UI           |
-| <img src="images/Rest-Assured.svg" width="25" height="25"  alt="Rest assured"/>Проект по API автоматизации | https://github.com/MaksimShpak97/reqres_tests_API        |
-| <img src="images/Android.svg" width="20" height="20"  alt="Android"/>Проект по Mobile автоматизации        | https://github.com/MaksimShpak97/changename_tests_Mobile |
+| <img src="images/Chrome.svg" width="25" height="25"  alt="Chrome"/>UI Automation Project              | https://github.com/MaksimShpak97/miro-tests_UI           |
+| <img src="images/Rest-Assured.svg" width="25" height="25"  alt="Rest assured"/>API Automation Project | https://github.com/MaksimShpak97/reqres_tests_API        |
+| <img src="images/Android.svg" width="20" height="20"  alt="Android"/>Mobail Automation Project        | https://github.com/MaksimShpak97/changename_tests_Mobile |
 
-### Технологии и инструменты:
+### My technology stack:
 
 <p align="center">  
     <a href="https://www.jetbrains.com/idea/"><img src="images/Idea.png" title="IDEA" width="50" height="50"  alt="IDEA"/></a>
@@ -35,13 +35,13 @@
     <a href="https://rest-assured.io/"><img src="images/Rest-Assured.svg" title="Rest Assured" width="50" height="50"  alt="Rest Assured"/></a>
   </p>
 
-### :email: Связь со мной:
+### :email: Connect with me:
 
 [//]: # ([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>]&#40;https://www.linkedin.com/in/maksim-shpak-8422b8245/&#41;)
 [//]: # ([<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>]&#40;https://t.me/WarnerBrotherss&#41;)
 [<img src='https://cdn.icon-icons.com/icons2/2429/PNG/128/telegram_logo_icon_147228.png' alt='telegram' height='42'>](https://t.me/WarnerBrotherss)
 
-### Статистика на GitHub:
+### Statistics on GitHub:
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksimShpak97&theme=radical)
