@@ -7,7 +7,7 @@
 - :green_book: Completed a course on manual testing
 - :green_book: Completed a course on test automation(java)
 
-### Мои дипломные проекты
+### My latest project
 
 | Project name                                                                                | Link to the project                                         |
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
