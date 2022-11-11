@@ -13,7 +13,7 @@
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | <img src="images/Chrome.svg" width="25" height="25"  alt="Chrome"/>UI Automation Project              | https://github.com/MaksimShpak97/miro-tests_UI           |
 | <img src="images/Rest-Assured.svg" width="25" height="25"  alt="Rest assured"/>API Automation Project | https://github.com/MaksimShpak97/reqres_tests_API        |
-| <img src="images/Android.svg" width="20" height="20"  alt="Android"/>Mobail Automation Project        | https://github.com/MaksimShpak97/changename_tests_Mobile |
+
 
 ### My technology stack:
 
