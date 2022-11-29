@@ -28,9 +28,6 @@
     <a href="https://aerokube.com/selenoid/"><img src="images/Selenoid.svg" title="Selenoid" width="50" height="50"  alt="Selenoid"/></a>
     <a href="https://qameta.io/"><img src="images/Allure_TestOps.svg" title="Allure TestOps" width="50" height="50"  alt="Allure testOps"/></a>
     <a href="https://www.atlassian.com/ru/software/confluence/"><img src="images/Confluence.svg" title="Confluence" width="50" height="50"  alt="Confluence"/></a>
-    <a href="https://appium.io/"><img src="images/Appium.png" title="Appium" width="50" height="50"  alt="Appium"/></a>
-    <a href="https://developer.android.com/studio/"><img src="images/Android-Studio.svg" title="Android studio" width="50" height="50"  alt="Android studio"/></a>
-    <a href="https://github.com/appium/appium-inspector/"><img src="images/Appium-inspector.png" title="Appium inspector" width="50" height="50"  alt="Appium inspector"/></a>
     <a href="https://www.atlassian.com/ru/software/jira"><img src="images/Jira.svg" title="Jira" width="50" height="50"  alt="Jira"/></a>
     <a href="https://rest-assured.io/"><img src="images/Rest-Assured.svg" title="Rest Assured" width="50" height="50"  alt="Rest Assured"/></a>
   </p>
